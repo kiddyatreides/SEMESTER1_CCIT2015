@@ -1,0 +1,54 @@
+1.2 Writing Objective 
+
+- to understand the development of IT and Oculus Rift.
+- to understand utility of oculus rift in various field.
+- to knowing tools which related with oculus rift.
+
+1.3 Problem Domain
+
+	In accordance with the title of ISAS "Oculus Rift as Virtual Reality Revolution" then we will discuss:
+	- How the Oculus Rift Works
+	- Knowing the tools that works on Oculus Rift System.
+	- Knowing the advantages of Oculus Rift Technology
+
+1.4 Methodology Writing
+
+	The method used is the method of browsing and observation
+
+1.5 Writing Framework
+
+	The paper was written by systematic as follows :
+
+CHAPTER INTRODUCTION
+
+1.1 Background 
+
+	Discusses the history of Virtual Reality, Human needs in technology and the reason why Oculus Rift Created.
+
+1.2 Writing Objective
+	
+	The purpose of this writing so that we can track the progress of the field of IT, especially the development according to the title of ISAS "Oculus Rift as Virtual Reality Revolution"
+
+1.3 Problem Domain
+	
+	Mention several points about the limitations of the problem to be discuss.
+
+1.4 Methodology Writing
+
+	our team use the method of browsing and observing.
+
+1.5 Writing Framework
+
+	Describe the entire of ISAS
+
+Chapter II Basic of Theory
+
+	Tell the definition about Oculus Rift, the use of Oculus Rift, and the tools which are related with oculus rift.
+
+Chapter III Problem Analysis
+	
+	Analyzing and solve the problem that contained in problem domain.
+
+Chapter IV Conclusion and Suggestion
+
+	Conclude and suggest related to ISAS.

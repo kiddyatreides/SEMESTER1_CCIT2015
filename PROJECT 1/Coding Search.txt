@@ -1,0 +1,17 @@
+Option Compare Database
+
+Public lccari As String
+
+Private Sub Search_Click()
+
+lccari = “[Nama] = ‘” & [Nama] & “‘”
+
+Me.LATIHAN.Form.Filter = lccari
+
+Me.LATIHAN.Form.FilterOn = True
+
+Me.LATIHAN.Form.Requery
+
+Me.Refresh
+
+End Sub
